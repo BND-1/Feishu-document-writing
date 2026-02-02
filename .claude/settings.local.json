@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python feishu_writer.py:*)",
+      "Bash(python -m scripts.feishu_writer:*)"
+    ]
+  }
+}
